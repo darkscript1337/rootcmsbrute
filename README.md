@@ -15,5 +15,3 @@ Uygulamanın çalışması için aşağıdaki Ruby kütüphaneleri gerekmektedir
 - `net/http`: HTTP isteklerini yapmak için kullanılır.
 - `uri`: URL işleme fonksiyonlarını sağlamak için kullanılır.
 - `colorize`: Terminal çıktısında renklendirme yapmak için kullanılır. Bu kütüphaneyi yüklemek için şu komutu kullanabilirsiniz:
-  ```bash
-  gem install colorize
